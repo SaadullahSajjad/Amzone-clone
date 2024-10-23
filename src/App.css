@@ -1,0 +1,19 @@
+body {
+  background: rgb(234, 237, 237);
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Tajawal', sans-serif;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a {
+  display: inline-flex;
+}
+
+/*a.active {*/
+/*    color: black;*/
+/*    font-size: 25px;*/
+/*    transition: all 0.5s;*/
+/*}*/
